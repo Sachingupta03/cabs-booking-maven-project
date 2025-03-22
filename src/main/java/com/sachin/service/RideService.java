@@ -41,5 +41,6 @@ public class RideService {
     }
 
     public void bookRides(List<Ride> list) {
+        
     }
 }

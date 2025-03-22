@@ -50,5 +50,6 @@ public class RatingService {
     }
 
     public void addRatings(List<Rating> list) {
+        
     }
 }
