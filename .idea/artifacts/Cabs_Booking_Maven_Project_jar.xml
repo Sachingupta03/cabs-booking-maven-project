@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Cabs-Booking-Maven-Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cabs_Booking_Maven_Project_jar</output-path>
+    <root id="archive" name="Cabs-Booking-Maven-Project.jar">
+      <element id="module-output" name="Cabs-Booking-Maven-Project" />
+    </root>
+  </artifact>
+</component>
